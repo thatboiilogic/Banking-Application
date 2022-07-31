@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"midterm1","c":"mdd","l":"getAverage(int[])"},{"p":"midterm1","c":"mdd","l":"getMax(int[])"},{"p":"midterm1","c":"mdd","l":"getMin(int[])"},{"p":"midterm1","c":"mdd","l":"getSum(int[])"},{"p":"midterm1","c":"mdd","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"midterm1","c":"mdd","l":"mdd()","url":"%3Cinit%3E()"}]
